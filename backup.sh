@@ -3,7 +3,7 @@
 #Alan Smith | smithalan2@gmail.com
 # 28/01/2016
 ###################
-#Bernd Havekost | bernd@hvkst.de
+#vhkst | bernd@hvkst.de
 # 30/04/2022
 ###################
 #!/bin/sh
