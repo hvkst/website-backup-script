@@ -1,5 +1,14 @@
 # Website Backup Script
 ___
+##Added Summary
+Forked and changed the script for my personal use. Changed everything from zip to tar.gz,
+created date/time folders and removed the final zipping, for now I only handle small databases.
+___
+##Future Changes
+For my "learn-to-script-journey" I plan on adding some logic like "If there is a week of backups, delete the first one", or something similar.
+
+Link to original repo: https://github.com/smithalan2/website-backup-script.git
+___
 ##Summary
 This a a Linux bash script for backing up the files and mysql database for a website to the server. It creates a zip file with a MySQL DB dump and zip of all the files.
 ___
